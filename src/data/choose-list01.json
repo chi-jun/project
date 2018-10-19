@@ -1,0 +1,148 @@
+{
+    "message": "操作成功",
+    "result": {
+        "chooseList": [
+            {
+                "id": 1,
+                "name": "福临门黄金产地玉米油900ml*6",
+                "info": "鲜货胚芽压榨 | 大放价",
+                "imgPath": "../src/assets/images/choose-list/choose-list01.png",
+                "tally": ["限时优惠", "包邮"],
+                "price": "39.9",
+                "inventory": "2000",
+                "url": "/goods-details"
+            },
+            {
+                "id": 2,
+                "name": "Mueloliva品利葡萄籽油1L",
+                "info": "鲜货胚芽压榨 | 非转基因",
+                "imgPath": "../src/assets/images/choose-list/choose-list02.png",
+                "tally": ["爆款", "包邮"],
+                "price": "49.9",
+                "inventory": "90",
+                "url": "/goods-details"
+            },
+            {
+                "id": 3,
+                "name": "福临门 纯正玉米油3.5L",
+                "info": "鲜货胚芽压榨 | 非转基因",
+                "imgPath": "../src/assets/images/choose-list/choose-list03.png",
+                "tally": ["活动", "包邮"],
+                "price": "35.9",
+                "inventory": "800",
+                "url": "/goods-details"
+            },
+            {
+                "id": 4,
+                "name": "福临门黄金产地玉米油900ml*6",
+                "info": "鲜货胚芽压榨 | 大放价",
+                "imgPath": "../src/assets/images/choose-list/choose-list01.png",
+                "tally": ["限时优惠", "包邮"],
+                "price": "39.9",
+                "inventory": "2000",
+                "url": "/goods-details"
+            },
+            {
+                "id": 5,
+                "name": "Mueloliva品利葡萄籽油1L",
+                "info": "鲜货胚芽压榨 | 非转基因",
+                "imgPath": "../src/assets/images/choose-list/choose-list02.png",
+                "tally": ["爆款", "包邮"],
+                "price": "49.9",
+                "inventory": "90",
+                "url": "/goods-details"
+            },
+            {
+                "id": 6,
+                "name": "福临门 纯正玉米油3.5L",
+                "info": "鲜货胚芽压榨 | 非转基因",
+                "imgPath": "../src/assets/images/choose-list/choose-list03.png",
+                "tally": ["活动", "包邮"],
+                "price": "35.9",
+                "inventory": "800",
+                "url": "/goods-details"
+            }
+        ],
+        "screenList": [
+            {
+                "spId": 9,
+                "spName": "产地",
+                "productSpecValues": [
+                    {
+                        "spValueId": 112,
+                        "spValueName": "江浙沪",
+                        "spId": 9
+                    },
+                    {
+                        "spValueId": 116,
+                        "spValueName": "珠三角",
+                        "spId": 9
+                    },
+                    {
+                        "spValueId": 115,
+                        "spValueName": "港澳台",
+                        "spId": 9
+                    },
+                    {
+                        "spValueId": 121,
+                        "spValueName": "海外",
+                        "spId": 9
+                    }
+                ]
+            },
+            {
+              "spId": 10,
+              "spName": "规格",
+              "productSpecValues": [
+                    {
+                        "spValueId": 113,
+                        "spValueName": "0-1L",
+                        "spId": 10
+                    },
+                    {
+                        "spValueId": 114,
+                        "spValueName": "1-3L",
+                        "spId": 10
+                    },
+                    {
+                        "spValueId": 111,
+                        "spValueName": "3-5L",
+                        "spId": 10
+                    },
+                    {
+                        "spValueId": 123,
+                        "spValueName": "5L以上",
+                        "spId": 10
+                    }
+              ]
+            },
+            {
+                "spId": 11,
+                "spName": "用途",
+                "productSpecValues": [
+                    {
+                        "spValueId": 119,
+                        "spValueName": "用途1",
+                        "spId": 11
+                    },
+                    {
+                        "spValueId": 118,
+                        "spValueName": "用途2",
+                        "spId": 11
+                    },
+                    {
+                        "spValueId": 117,
+                        "spValueName": "用途3",
+                        "spId": 11
+                    },
+                    {
+                        "spValueId": 124,
+                        "spValueName": "用途4",
+                        "spId": 11
+                    }
+              ]
+            }
+        ]
+    },
+    "status": "200"
+}

@@ -1,0 +1,83 @@
+{
+    "message": "添加成功",
+    "status": "200",
+    "result": {
+        "pageSize": 10,
+        "pageNo": 1,
+        "rowCount": 1,
+        "pageCount": 1,
+        "pageSizeList": [
+            5,
+            10,
+            30,
+            50,
+            100
+        ],
+        "resultList": [
+            {
+                "addressId": 1,
+                "memberId": 71,
+                "trueName": "李初一",
+                "provinceId": 19,
+                "cityId": 110200,
+                "areaId": 110228,
+                "areaInfo": "广东省广州市越秀区",
+                "address": "东风东路761号丽丰中心7楼讯猫软件有限公司",
+                "telPhone": null,
+                "mobPhone": "18703658318",
+                "isDefault": "1",
+                "zipCode": "5230000",
+                "email": "1208097959@qq.com",
+                "check": false
+            },
+            {
+                "addressId": 2,
+                "memberId": 71,
+                "trueName": "何志平",
+                "provinceId": 1,
+                "cityId": 110200,
+                "areaId": 110228,
+                "areaInfo": "北京市 县 密云县",
+                "address": "解放路山海关032号",
+                "telPhone": null,
+                "mobPhone": "18819470250",
+                "isDefault": "0",
+                "zipCode": "100000",
+                "email": "1208097959@qq.com",
+                "check": false
+            },
+            {
+                "addressId": 3,
+                "memberId": 71,
+                "trueName": "陆煜棋",
+                "provinceId": 1,
+                "cityId": 110200,
+                "areaId": 110228,
+                "areaInfo": "河北省唐山市市辖区",
+                "address": "丛台2号",
+                "telPhone": null,
+                "mobPhone": "15178952097",
+                "isDefault": "0",
+                "zipCode": "100000",
+                "email": "1208097959@qq.com",
+                "check": false
+            },
+            {
+                "addressId": 4,
+                "memberId": 71,
+                "trueName": "辛珺婕",
+                "provinceId": 1,
+                "cityId": 110200,
+                "areaId": 110228,
+                "areaInfo": "山西省临汾市市辖区",
+                "address": "奈曼乡历史村985号",
+                "telPhone": null,
+                "mobPhone": "13502208512",
+                "isDefault": "0",
+                "zipCode": "100000",
+                "email": "1208097959@qq.com",
+                "check": false
+            }
+        ]
+    }
+}

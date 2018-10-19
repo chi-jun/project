@@ -1,0 +1,158 @@
+{
+    "message": "操作成功",
+    "result": [
+        {
+            "id": 1,
+            "alt": "选购类别图一",
+            "imgPath": "src/assets/images/choose/choose01.png",
+            "headTxt": "粮油类",
+            "choose": [
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "全部",
+                    "chooseId": "01"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "面粉类",
+                    "chooseId": "02"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "大米类",
+                    "chooseId": "03"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "食用油类",
+                    "chooseId": "04"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "杂粮类",
+                    "chooseId": "05"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "alt": "选购类别图二",
+            "imgPath": "src/assets/images/choose/choose02.png",
+            "headTxt": "副食类",
+            "choose": [
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "全部",
+                    "chooseId": "06"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "调味类",
+                    "chooseId": "07"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "酒水类",
+                    "chooseId": "08"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "糖果类",
+                    "chooseId": "09"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "腌腊制品类",
+                    "chooseId": "10"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "方便食品类",
+                    "chooseId": "11"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "食化添加类",
+                    "chooseId": "12"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "食品包装类",
+                    "chooseId": "13"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "alt": "选购类别三",
+            "imgPath": "src/assets/images/choose/choose03.png",
+            "headTxt": "生鲜类",
+            "choose": [
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "全部",
+                    "chooseId": "14"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "猪肉",
+                    "chooseId": "15"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "羊肉",
+                    "chooseId": "16"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "牛肉",
+                    "chooseId": "17"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "鸡",
+                    "chooseId": "18"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "鸭",
+                    "chooseId": "19"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "鱼",
+                    "chooseId": "20"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "鹅",
+                    "chooseId": "21"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "alt": "选购类别四",
+            "imgPath": "src/assets/images/choose/choose04.png",
+            "headTxt": "粮油类",
+            "choose": [
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "全部",
+                    "chooseId": "22"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "蔬菜类",
+                    "chooseId": "23"
+                },
+                {
+                    "chooseListUrl": "/choose-list",
+                    "chooseListTxt": "水果类",
+                    "chooseId": "24"
+                }
+            ]
+        }
+    ],
+    "status": "200"
+}

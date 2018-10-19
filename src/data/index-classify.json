@@ -1,0 +1,70 @@
+{
+    "message": "操作成功",
+    "result": [
+        {
+            "id": 1,
+            "url": "/choose",
+            "alt": "首页分类图一",
+            "imgPath": "src/assets/images/index-classify/index-classify01.png",
+            "classifyTxt": "面粉类"
+        },
+        {
+            "id": 1,
+            "url": "/choose",
+            "alt": "首页分类图二",
+            "imgPath": "src/assets/images/index-classify/index-classify02.png",
+            "classifyTxt": "大米类"
+        },
+        {
+            "id": 1,
+            "url": "/choose",
+            "alt": "首页分类图三",
+            "imgPath": "src/assets/images/index-classify/index-classify03.png",
+            "classifyTxt": "食用油类"
+        },
+        {
+            "id": 1,
+            "url": "/choose",
+            "alt": "首页分类图四",
+            "imgPath": "src/assets/images/index-classify/index-classify04.png",
+            "classifyTxt": "杂粮类"
+        },
+        {
+            "id": 2,
+            "url": "/choose",
+            "alt": "首页分类图五",
+            "imgPath": "src/assets/images/index-classify/index-classify05.png",
+            "classifyTxt": "调味类"
+        },
+        {
+            "id": 2,
+            "url": "/choose",
+            "alt": "首页分类图六",
+            "imgPath": "src/assets/images/index-classify/index-classify06.png",
+            "classifyTxt": "酒水类"
+        },
+        {
+            "id": 2,
+            "url": "/choose",
+            "alt": "首页分类图七",
+            "imgPath": "src/assets/images/index-classify/index-classify07.png",
+            "classifyTxt": "糖果类"
+        },
+        {
+            "id": 3,
+            "url": "/choose",
+            "alt": "首页分类图八",
+            "imgPath": "src/assets/images/index-classify/index-classify08.png",
+            "classifyTxt": "鲜活类"
+        },
+        {
+            "id": 4,
+            "url": "/choose",
+            "alt": "首页分类图九",
+            "imgPath": "src/assets/images/index-classify/index-classify09.png",
+            "classifyTxt": "蔬菜类"
+        }
+
+    ],
+    "status": "200"
+}

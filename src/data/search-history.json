@@ -1,0 +1,56 @@
+{
+    "message": "操作成功",
+    "result": [
+        {
+            "id": 1,
+            "url": "/index",
+            "txt": "苹果"
+        },
+        {
+            "id": 2,
+            "url": "/index",
+            "txt": "福临门食用油"
+        },
+        {
+            "id": 3,
+            "url": "/index",
+            "txt": "水产海鲜"
+        },
+        {
+            "id": 4,
+            "url": "/index",
+            "txt": "甘竹牌豆豉鲮鱼"
+        },
+        {
+            "id": 5,
+            "url": "/index",
+            "txt": "白酒"
+        },
+        {
+            "id": 6,
+            "url": "/index",
+            "txt": "红枣核桃"
+        },
+        {
+            "id": 7,
+            "url": "/index",
+            "txt": "冰糖橙"
+        },
+        {
+            "id": 8,
+            "url": "/index",
+            "txt": "坚果"
+        },
+        {
+            "id": 9,
+            "url": "/index",
+            "txt": "精品肉食"
+        },
+        {
+            "id": 10,
+            "url": "/index",
+            "txt": "蔬菜"
+        }
+    ],
+    "status": "200"
+}

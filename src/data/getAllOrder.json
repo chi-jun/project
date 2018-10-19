@@ -1,0 +1,468 @@
+{
+    "message": "查询成功",
+    "status": "200",
+    "result": {
+        "pageSize": 10,
+        "pageNo": 1,
+        "rowCount": 32,
+        "pageCount": 4,
+        "pageSizeList": [
+            5,
+            10,
+            30,
+            50,
+            100
+        ],
+        "resultList": [
+            {
+                "orderId": 160,
+                "orderSn": "180115192955197",
+                "paySn": "5180115192955191",
+                "store": {
+                    "storeId": 1,
+                    "storeName": "自营",
+                    "memberId": 55,
+                    "memberName": null
+                },
+                "storeName": "自营",
+                "orderGoods": [
+                    {
+                        "orderId": 160,
+                        "goodsId": 1780,
+                        "goodsName": "33333",
+                        "goodsPrice": 1,
+                        "goodsNum": 1,
+                        "goodsImage": "",
+                        "goodsSpec": null,
+                        "goodsPayPrice": 1,
+                        "orderSn": "180115192955197",
+                        "state": null,
+                        "desc": null
+                    }
+                ],
+                "member": {
+                    "memberId": 71,
+                    "memberName": "Banana"
+                },
+                "addTime": "2018-01-15 19:29:55",
+                "paymentCode": "wxpay",
+                "paymentTime": null,
+                "finnshedTime": "2018-01-15 21:30:00",
+                "goodsAmount": 1,
+                "orderAmount": 1,
+                "pdAmount": 1,
+                "shippingFee": "0.00",
+                "evaluationState": 0,
+                "orderState": -3,
+                "payState": 0,
+                "shippingState": 0,
+                "refundAmount": null,
+                "shippingCode": null,
+                "reShippingCode": null,
+                "cancelReason": null,
+                "isHurry": null,
+                "shippingTime": null,
+                "status": 1
+            },
+            {
+              "orderId": 160,
+              "orderSn": "180115192955197",
+              "paySn": "5180115192955191",
+              "store": {
+                "storeId": 1,
+                "storeName": "自营",
+                "memberId": 55,
+                "memberName": null
+              },
+              "storeName": "自营",
+              "orderGoods": [
+                {
+                  "orderId": 160,
+                  "goodsId": 1780,
+                  "goodsName": "33333",
+                  "goodsPrice": 120,
+                  "goodsNum": 3,
+                  "goodsImage": "",
+                  "goodsSpec": null,
+                  "goodsPayPrice": 1,
+                  "orderSn": "180115192955197",
+                  "state": null,
+                  "desc": null
+                }
+              ],
+              "member": {
+                "memberId": 71,
+                "memberName": "Banana"
+              },
+              "addTime": "2018-01-15 19:29:55",
+              "paymentCode": "wxpay",
+              "paymentTime": null,
+              "finnshedTime": "2018-01-15 21:30:00",
+              "goodsAmount": 1,
+              "orderAmount": 1,
+              "pdAmount": 1,
+              "shippingFee": "0.00",
+              "evaluationState": 0,
+              "orderState": -3,
+              "payState": 0,
+              "shippingState": 0,
+              "refundAmount": null,
+              "shippingCode": null,
+              "reShippingCode": null,
+              "cancelReason": null,
+              "isHurry": null,
+              "shippingTime": null,
+              "status": 2
+            },
+            {
+              "orderId": 160,
+              "orderSn": "180115192955197",
+              "paySn": "5180115192955191",
+              "store": {
+                "storeId": 1,
+                "storeName": "自营",
+                "memberId": 55,
+                "memberName": null
+              },
+              "storeName": "自营",
+              "orderGoods": [
+                {
+                  "orderId": 160,
+                  "goodsId": 1780,
+                  "goodsName": "33333",
+                  "goodsPrice": 1,
+                  "goodsNum": 1,
+                  "goodsImage": "",
+                  "goodsSpec": null,
+                  "goodsPayPrice": 1,
+                  "orderSn": "180115192955197",
+                  "state": null,
+                  "desc": null
+                }
+              ],
+              "member": {
+                "memberId": 71,
+                "memberName": "Banana"
+              },
+              "addTime": "2018-01-15 19:29:55",
+              "paymentCode": "wxpay",
+              "paymentTime": null,
+              "finnshedTime": "2018-01-15 21:30:00",
+              "goodsAmount": 1,
+              "orderAmount": 1,
+              "pdAmount": 1,
+              "shippingFee": "0.00",
+              "evaluationState": 0,
+              "orderState": -3,
+              "payState": 0,
+              "shippingState": 0,
+              "refundAmount": null,
+              "shippingCode": null,
+              "reShippingCode": null,
+              "cancelReason": null,
+              "isHurry": null,
+              "shippingTime": null,
+              "status": 3
+            },
+            {
+              "orderId": 160,
+              "orderSn": "180115192955197",
+              "paySn": "5180115192955191",
+              "store": {
+                "storeId": 1,
+                "storeName": "自营",
+                "memberId": 55,
+                "memberName": null
+              },
+              "storeName": "自营",
+              "orderGoods": [
+                {
+                  "orderId": 160,
+                  "goodsId": 1780,
+                  "goodsName": "33333",
+                  "goodsPrice": 1,
+                  "goodsNum": 1,
+                  "goodsImage": "",
+                  "goodsSpec": null,
+                  "goodsPayPrice": 1,
+                  "orderSn": "180115192955197",
+                  "state": null,
+                  "desc": null
+                }
+              ],
+              "member": {
+                "memberId": 71,
+                "memberName": "Banana"
+              },
+              "addTime": "2018-01-15 19:29:55",
+              "paymentCode": "wxpay",
+              "paymentTime": null,
+              "finnshedTime": "2018-01-15 21:30:00",
+              "goodsAmount": 1,
+              "orderAmount": 1,
+              "pdAmount": 1,
+              "shippingFee": "0.00",
+              "evaluationState": 0,
+              "orderState": -3,
+              "payState": 0,
+              "shippingState": 0,
+              "refundAmount": null,
+              "shippingCode": null,
+              "reShippingCode": null,
+              "cancelReason": null,
+              "isHurry": null,
+              "shippingTime": null,
+              "status": 4
+            },
+            {
+              "orderId": 160,
+              "orderSn": "180115192955197",
+              "paySn": "5180115192955191",
+              "store": {
+                "storeId": 1,
+                "storeName": "自营",
+                "memberId": 55,
+                "memberName": null
+              },
+              "storeName": "自营",
+              "orderGoods": [
+                {
+                  "orderId": 160,
+                  "goodsId": 1780,
+                  "goodsName": "33333",
+                  "goodsPrice": 1,
+                  "goodsNum": 1,
+                  "goodsImage": "",
+                  "goodsSpec": null,
+                  "goodsPayPrice": 1,
+                  "orderSn": "180115192955197",
+                  "state": null,
+                  "desc": null
+                }
+              ],
+              "member": {
+                "memberId": 71,
+                "memberName": "Banana"
+              },
+              "addTime": "2018-01-15 19:29:55",
+              "paymentCode": "wxpay",
+              "paymentTime": null,
+              "finnshedTime": "2018-01-15 21:30:00",
+              "goodsAmount": 1,
+              "orderAmount": 1,
+              "pdAmount": 1,
+              "shippingFee": "0.00",
+              "evaluationState": 0,
+              "orderState": -3,
+              "payState": 0,
+              "shippingState": 0,
+              "refundAmount": null,
+              "shippingCode": null,
+              "reShippingCode": null,
+              "cancelReason": null,
+              "isHurry": null,
+              "shippingTime": null,
+              "status": 5
+            },{
+              "orderId": 160,
+              "orderSn": "180115192955197",
+              "paySn": "5180115192955191",
+              "store": {
+                "storeId": 1,
+                "storeName": "自营",
+                "memberId": 55,
+                "memberName": null
+              },
+              "storeName": "自营",
+              "orderGoods": [
+                {
+                  "orderId": 160,
+                  "goodsId": 1780,
+                  "goodsName": "33333",
+                  "goodsPrice": 1,
+                  "goodsNum": 1,
+                  "goodsImage": "",
+                  "goodsSpec": null,
+                  "goodsPayPrice": 1,
+                  "orderSn": "180115192955197",
+                  "state": null,
+                  "desc": null
+                }
+              ],
+              "member": {
+                "memberId": 71,
+                "memberName": "Banana"
+              },
+              "addTime": "2018-01-15 19:29:55",
+              "paymentCode": "wxpay",
+              "paymentTime": null,
+              "finnshedTime": "2018-01-15 21:30:00",
+              "goodsAmount": 1,
+              "orderAmount": 1,
+              "pdAmount": 1,
+              "shippingFee": "0.00",
+              "evaluationState": 0,
+              "orderState": -3,
+              "payState": 0,
+              "shippingState": 0,
+              "refundAmount": null,
+              "shippingCode": null,
+              "reShippingCode": null,
+              "cancelReason": null,
+              "isHurry": null,
+              "shippingTime": null,
+              "status": 6
+            },
+            {
+              "orderId": 160,
+              "orderSn": "180115192955197",
+              "paySn": "5180115192955191",
+              "store": {
+                "storeId": 1,
+                "storeName": "自营",
+                "memberId": 55,
+                "memberName": null
+              },
+              "storeName": "自营",
+              "orderGoods": [
+                {
+                  "orderId": 160,
+                  "goodsId": 1780,
+                  "goodsName": "33333",
+                  "goodsPrice": 1,
+                  "goodsNum": 1,
+                  "goodsImage": "",
+                  "goodsSpec": null,
+                  "goodsPayPrice": 1,
+                  "orderSn": "180115192955197",
+                  "state": null,
+                  "desc": null
+                }
+              ],
+              "member": {
+                "memberId": 71,
+                "memberName": "Banana"
+              },
+              "addTime": "2018-01-15 19:29:55",
+              "paymentCode": "wxpay",
+              "paymentTime": null,
+              "finnshedTime": "2018-01-15 21:30:00",
+              "goodsAmount": 1,
+              "orderAmount": 1,
+              "pdAmount": 1,
+              "shippingFee": "0.00",
+              "evaluationState": 1,
+              "orderState": -3,
+              "payState": 0,
+              "shippingState": 0,
+              "refundAmount": null,
+              "shippingCode": null,
+              "reShippingCode": null,
+              "cancelReason": null,
+              "isHurry": null,
+              "shippingTime": null,
+              "status": 7
+            },
+            {
+              "orderId": 160,
+              "orderSn": "180115192955197",
+              "paySn": "5180115192955191",
+              "store": {
+                "storeId": 1,
+                "storeName": "自营",
+                "memberId": 55,
+                "memberName": null
+              },
+              "storeName": "自营",
+              "orderGoods": [
+                {
+                  "orderId": 160,
+                  "goodsId": 1780,
+                  "goodsName": "33333",
+                  "goodsPrice": 1,
+                  "goodsNum": 1,
+                  "goodsImage": "",
+                  "goodsSpec": null,
+                  "goodsPayPrice": 1,
+                  "orderSn": "180115192955197",
+                  "state": null,
+                  "desc": null
+                }
+              ],
+              "member": {
+                "memberId": 71,
+                "memberName": "Banana"
+              },
+              "addTime": "2018-01-15 19:29:55",
+              "paymentCode": "wxpay",
+              "paymentTime": null,
+              "finnshedTime": "2018-01-15 21:30:00",
+              "goodsAmount": 1,
+              "orderAmount": 1,
+              "pdAmount": 1,
+              "shippingFee": "0.00",
+              "evaluationState": 1,
+              "orderState": -3,
+              "payState": 0,
+              "shippingState": 0,
+              "refundAmount": null,
+              "shippingCode": null,
+              "reShippingCode": null,
+              "cancelReason": null,
+              "isHurry": null,
+              "shippingTime": null,
+              "status": 8
+            },
+            {
+              "orderId": 160,
+              "orderSn": "180115192955197",
+              "paySn": "5180115192955191",
+              "store": {
+                "storeId": 1,
+                "storeName": "自营",
+                "memberId": 55,
+                "memberName": null
+              },
+              "storeName": "自营",
+              "orderGoods": [
+                {
+                  "orderId": 160,
+                  "goodsId": 1780,
+                  "goodsName": "33333",
+                  "goodsPrice": 1,
+                  "goodsNum": 1,
+                  "goodsImage": "",
+                  "goodsSpec": null,
+                  "goodsPayPrice": 1,
+                  "orderSn": "180115192955197",
+                  "state": null,
+                  "desc": null
+                }
+              ],
+              "member": {
+                "memberId": 71,
+                "memberName": "Banana"
+              },
+              "addTime": "2018-01-15 19:29:55",
+              "paymentCode": "wxpay",
+              "paymentTime": null,
+              "finnshedTime": "2018-01-15 21:30:00",
+              "goodsAmount": 1,
+              "orderAmount": 1,
+              "pdAmount": 1,
+              "shippingFee": "0.00",
+              "evaluationState": 1,
+              "orderState": -3,
+              "payState": 0,
+              "shippingState": 0,
+              "refundAmount": null,
+              "shippingCode": null,
+              "reShippingCode": null,
+              "cancelReason": null,
+              "isHurry": null,
+              "shippingTime": null,
+              "status": 9
+            }
+        ]
+    }
+}

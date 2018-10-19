@@ -1,0 +1,60 @@
+{
+  "message": "操作成功",
+  "result": [
+    {
+      "id": 1,
+      "name": "福临门黄金产地玉米油900ml*6",
+      "info": "鲜货胚芽压榨 | 大放价",
+      "imgPath": "../../src/assets/images/index-discounts/index-discounts01.png",
+      "tally": ["限时优惠", "包邮"],
+      "price": "39.9",
+      "inventory": "2000"
+    },
+    {
+      "id": 2,
+      "name": "实建橙优级 箱装毛重5kg",
+      "info": "果皮光滑，颜色偏绿，果肉紧实，口感好",
+      "imgPath": "../../src/assets/images/index-discounts/index-discounts02.png",
+      "tally": ["活动", "包邮"],
+      "price": "120",
+      "inventory": "200"
+    },
+    {
+      "id": 3,
+      "name": "蒙牛新养道零乳糖牛奶250ml*12/箱",
+      "info": "特惠商品，不参加满减或用券活动",
+      "imgPath": "../../src/assets/images/index-discounts/index-discounts03.png",
+      "tally": ["特惠", "包邮"],
+      "price": "29.9",
+      "inventory": "200"
+    },
+    {
+      "id": 4,
+      "name": "福临门黄金产地玉米油900ml*6",
+      "info": "鲜货胚芽压榨 | 大放价",
+      "imgPath": "../../src/assets/images/index-discounts/index-discounts01.png",
+      "tally": ["限时优惠", "包邮"],
+      "price": "39.9",
+      "inventory": "2000"
+    },
+    {
+      "id": 5,
+      "name": "实建橙优级 箱装毛重5kg",
+      "info": "果皮光滑，颜色偏绿，果肉紧实，口感好",
+      "imgPath": "../../src/assets/images/index-discounts/index-discounts02.png",
+      "tally": ["活动", "包邮"],
+      "price": "120",
+      "inventory": "200"
+    },
+    {
+      "id": 6,
+      "name": "蒙牛新养道零乳糖牛奶250ml*12/箱",
+      "info": "特惠商品，不参加满减或用券活动",
+      "imgPath": "../../src/assets/images/index-discounts/index-discounts03.png",
+      "tally": ["特惠", "包邮"],
+      "price": "29.9",
+      "inventory": "200"
+    }
+  ],
+  "status": "200"
+}

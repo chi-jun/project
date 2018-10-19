@@ -1,0 +1,42 @@
+{
+  "message": "查询成功",
+  "status": "200",
+  "result": [
+        {
+            "id": 1,
+            "alt": "首页轮播图一",
+            "title": "首页轮播图一",
+            "url": "/index",
+            "imgPath": "src/assets/images/index-lantern/index-lantern01.png"
+        },
+        {
+            "id": 2,
+            "alt": "首页轮播图二",
+            "title": "首页轮播图二",
+            "url": "/index",
+            "imgPath": "src/assets/images/index-lantern/index-lantern02.png"
+        },
+        {
+            "id": 3,
+            "alt": "首页轮播图三",
+            "title": "首页轮播图三",
+            "url": "/index",
+            "imgPath": "src/assets/images/index-lantern/index-lantern01.png"
+        },
+        {
+            "id": 4,
+            "alt": "首页轮播图四",
+            "title": "首页轮播图四",
+            "url": "/index",
+            "imgPath": "src/assets/images/index-lantern/index-lantern02.png"
+        },
+        {
+            "id": 5,
+            "alt": "首页轮播图五",
+            "title": "首页轮播图五",
+            "url": "/index",
+            "imgPath": "src/assets/images/index-lantern/index-lantern01.png"
+        }
+    ],
+    "status": "200"
+}

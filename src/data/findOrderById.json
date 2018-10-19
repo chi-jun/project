@@ -1,0 +1,67 @@
+{
+  "message": "查询成功",
+  "status": "200",
+  "result": {
+    "orderCommon": {
+      "orderId": 159,
+      "storeId": 2,
+      "shippingTime": null,
+      "shippingCode": null,
+      "reciverName": "李初一",
+      "reciverInfo": "广东省广州市越秀区东风东路761号丽丰中心",
+      "phone": "136****0839"
+    },
+    "order": {
+      "orderId": 159,
+      "orderSn": "180115141520748",
+      "paySn": "5180115141520724",
+      "store": {
+        "storeId": 2,
+        "storeName": "Dawmdian",
+        "memberId": 61,
+        "memberName": "dawm888888"
+      },
+      "storeName": "Dawmdian",
+      "orderGoods": [
+        {
+          "orderId": 159,
+          "goodsId": 1783,
+          "goodsName": "蒙牛新养道零乳糖牛奶 250ml*12 蒙牛新养道零乳糖牛奶蒙牛新养道零乳糖牛奶",
+          "goodsPrice": 120,
+          "goodsNum": 3,
+          "goodsImage": null,
+          "goodsSpec": null,
+          "goodsSpecIds":"",
+          "goodsPayPrice": 1,
+          "orderSn": "180115141520748",
+          "state": null,
+          "desc": "果皮光滑，颜色偏绿，果肉紧实，口感好"
+        }
+      ],
+      "member": {
+        "memberId": 71,
+        "memberName": "Banana"
+      },
+      "addTime": "2018-01-15 14:15:20",
+      "paymentCode": "wx_pay",
+      "paymentTime": null,
+      "finnshedTime": "2018-01-15 18:20:01",
+      "goodsAmount": 1,
+      "orderAmount": 1,
+      "pdAmount": 1,
+      "reciverName": "123",
+      "shippingFee": "0.00",
+      "evaluationState": 0,
+      "orderState": -3,
+      "payState": 0,
+      "shippingState": 0,
+      "refundAmount": null,
+      "shippingCode": null,
+      "reShippingCode": null,
+      "cancelReason": null,
+      "reciverInfo": null,
+      "isHurry": null,
+      "shippingTime": null
+    }
+  }
+}

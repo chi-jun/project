@@ -1,0 +1,68 @@
+{
+    "message": "查询成功",
+    "status": "200",
+    "result": {
+        "pageSize": 5,
+        "pageNo": 1,
+        "rowCount": 3,
+        "pageCount": 1,
+        "pageSizeList": [
+            5,
+            10,
+            30,
+            50,
+            100
+        ]
+    },
+    "resultList": [
+        {
+            "evId": 6,
+            "content": "很好啊啊啊啊啊a",
+            "pid": 1674,
+            "memberName": "jzmt01",
+            "memberPic": "/src/assets/images/goods-details/head-portrait001.jpeg",
+            "imgList": [
+                {
+                    "id": 2,
+                    "evId": 5,
+                    "img": "/src/assets/images/goods-details/evaluate01.png",
+                    "createTime": "2017-09-21 18:58:51"
+                }
+            ],
+            "star": 1
+        },
+        {
+            "evId": 5,
+            "content": "十分满意啊", 
+            "pid": 1674,
+            "memberName": "jianzhumatou", 
+            "memberPic": "/src/assets/images/goods-details/head-portrait002.jpeg", 
+            "evTime": "2017-09-22 00:31:48", 
+            "imgList": [
+                {
+                    "id": 2,
+                    "evId": 5,
+                    "img": "/src/assets/images/goods-details/evaluate02.png",
+                    "createTime": "2017-09-21 18:58:51"
+                }
+            ],
+            "star": 3
+        },
+        {
+            "evId": 4,
+            "content": "很满意",
+            "pid": 1674,
+            "memberName": "wyen888888",
+            "memberPic": "/src/assets/images/goods-details/head-portrait003.png",
+            "imgList": [
+                {
+                    "id": 1,
+                    "evId": 4,
+                    "img": "/src/assets/images/goods-details/evaluate03.png",
+                    "createTime": "2017-09-20 19:46:51"
+                }
+            ],
+            "star": 2
+        }
+    ]
+}

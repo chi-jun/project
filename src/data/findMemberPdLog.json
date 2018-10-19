@@ -1,0 +1,118 @@
+{
+    "message": "添加成功",
+    "status": "200",
+    "result": {
+        "pageSize": 4,
+        "pageNo": 1,
+        "rowCount": 1,
+        "pageCount": 1,
+        "pageSizeList": [
+            5,
+            10,
+            30,
+            50,
+            100
+        ],
+        "resultList": [
+            {
+                "lgId": 1,
+                "lgMemberId": 71,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "2",
+                "lgAvAmount": 45,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-28 20:00:00",
+                "lgDesc": null
+            },
+            {
+                "lgId": 1,
+                "lgMemberId": 72,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "3",
+                "lgAvAmount": 86,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-28 15:00:00",
+                "lgDesc": null
+            },
+            {
+                "lgId": 1,
+                "lgMemberId": 73,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "4",
+                "lgAvAmount": 23,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-27 13:00:00",
+                "lgDesc": null
+            },
+            {
+                "lgId": 1,
+                "lgMemberId": 74,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "3",
+                "lgAvAmount": 46,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-26 12:00:00",
+                "lgDesc": null
+            },
+            {
+                "lgId": 1,
+                "lgMemberId": 75,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "2",
+                "lgAvAmount": 832,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-11 07:00:00",
+                "lgDesc": null
+            },
+            {
+                "lgId": 1,
+                "lgMemberId": 76,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "1",
+                "lgAvAmount": 146,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-12 23:00:00",
+                "lgDesc": null
+            },
+            {
+                "lgId": 1,
+                "lgMemberId": 77,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "2",
+                "lgAvAmount": 44,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-23 16:00:00",
+                "lgDesc": null
+            },
+            {
+                "lgId": 1,
+                "lgMemberId": 78,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "3",
+                "lgAvAmount": 12,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-24 09:00:00",
+                "lgDesc": null
+            },
+            {
+                "lgId": 1,
+                "lgMemberId": 79,
+                "lgMemberName": "banana",
+                "lgAdminName": "banana",
+                "lgType": "4",
+                "lgAvAmount": 47898,
+                "lgFreezeAmount": 0,
+                "lgAddTime": "2018-01-25 08:00:00",
+                "lgDesc": null
+            }
+        ]
+    }
+}

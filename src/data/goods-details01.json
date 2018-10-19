@@ -1,0 +1,122 @@
+{
+    "message": "操作成功",
+    "result": {
+        "detailsPrint": [
+            {
+                "imgId": "01",
+                "imgAlt": "商品详情图一",
+                "imgPath": "../src/assets/images/goods-details/goods-details01.png"
+            },
+            {
+                "imgId": "02",
+                "imgAlt": "商品详情图二",
+                "imgPath": "../src/assets/images/goods-details/goods-details01.png"
+            },
+            {
+                "imgId": "03",
+                "imgAlt": "商品详情图三",
+                "imgPath": "../src/assets/images/goods-details/goods-details01.png"
+            },
+            {
+                "imgId": "04",
+                "imgAlt": "商品详情图四",
+                "imgPath": "../src/assets/images/goods-details/goods-details01.png"
+            },
+            {
+                "imgId": "05",
+                "imgAlt": "商品详情图五",
+                "imgPath": "../src/assets/images/goods-details/goods-details01.png"
+            }
+        ],
+        "detailsInfo": {
+            "id": 1,
+            "name": "实建橙农家自种 优级皮薄包甜 橙子箱装毛重5kg",
+            "info": "果皮光滑，颜色偏绿，果肉紧实，口感好",
+            "tally": ["活动", "包邮"],
+            "price": "120",
+            "originalPrice": "136",
+            "inventory": "200"
+        },
+        "screenList": [
+            {
+                "spId": 9,
+                "spName": "产地",
+                "productSpecValues": [
+                    {
+                        "spValueId": 112,
+                        "spValueName": "江浙沪",
+                        "spId": 9
+                    },
+                    {
+                        "spValueId": 116,
+                        "spValueName": "珠三角",
+                        "spId": 9
+                    },
+                    {
+                        "spValueId": 115,
+                        "spValueName": "港澳台",
+                        "spId": 9
+                    },
+                    {
+                        "spValueId": 121,
+                        "spValueName": "海外",
+                        "spId": 9
+                    }
+                ]
+            },
+            {
+              "spId": 10,
+              "spName": "规格",
+              "productSpecValues": [
+                    {
+                        "spValueId": 113,
+                        "spValueName": "0-1L",
+                        "spId": 10
+                    },
+                    {
+                        "spValueId": 114,
+                        "spValueName": "1-3L",
+                        "spId": 10
+                    },
+                    {
+                        "spValueId": 111,
+                        "spValueName": "3-5L",
+                        "spId": 10
+                    },
+                    {
+                        "spValueId": 123,
+                        "spValueName": "5L以上",
+                        "spId": 10
+                    }
+              ]
+            },
+            {
+                "spId": 11,
+                "spName": "用途",
+                "productSpecValues": [
+                    {
+                        "spValueId": 119,
+                        "spValueName": "用途1",
+                        "spId": 11
+                    },
+                    {
+                        "spValueId": 118,
+                        "spValueName": "用途2",
+                        "spId": 11
+                    },
+                    {
+                        "spValueId": 117,
+                        "spValueName": "用途3",
+                        "spId": 11
+                    },
+                    {
+                        "spValueId": 124,
+                        "spValueName": "用途4",
+                        "spId": 11
+                    }
+              ]
+            }
+        ]
+    },
+    "status": "200"
+}
